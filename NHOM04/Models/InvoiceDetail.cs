@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Eshop.Models
+namespace NHOM04.Models
 {
     public class InvoiceDetail
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Eshop.Models
+namespace NHOM04.Models
 {
     public class Account
     {
